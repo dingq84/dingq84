@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub! I'm Dean Chen, Front-end developer
 
 <!--
 **dingq84/dingq84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### aboutMe.js
+
+```javascript
+const dean = {
+    pronouns: "he" | "him",
+    code: [Javascript, HTML, CSS],
+    askMeAbout: ["web dev", "music", "investment"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "material-ui", "scss", "tailwindCSS", "vuetify", "element-ui"],
+            js: ["jQuery", "React.js", "Vue.js", "TypeScript"]
+        },
+        backEnd: {
+            js: ["node"]
+        }        
+    }
+};
+```
